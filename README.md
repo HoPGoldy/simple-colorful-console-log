@@ -1,6 +1,8 @@
 # simple-colorful-console-log
 A simple console log display module
 
+中文介绍请点击 [这里](https://github.com/HoPGoldy/simple-colorful-console-log/blob/master/README_CN.md)
+
 # Add
 
 ```
