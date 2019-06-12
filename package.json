@@ -1,5 +1,5 @@
 {
-  "name": "color-log",
+  "name": "colors-log",
   "version": "1.0.0",
   "description": "A simple console log display module",
   "main": "index.js",
