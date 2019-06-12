@@ -1,0 +1,22 @@
+{
+  "name": "color-log",
+  "version": "1.0.0",
+  "description": "A simple console log display module",
+  "main": "index.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoPGoldy/simple-colorful-console-log.git"
+  },
+  "keywords": [
+    "colorful",
+    "log",
+    "console"
+  ],
+  "author": "hopgoldy",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/HoPGoldy/simple-colorful-console-log/issues"
+  },
+  "homepage": "https://github.com/HoPGoldy/simple-colorful-console-log#readme"
+}
